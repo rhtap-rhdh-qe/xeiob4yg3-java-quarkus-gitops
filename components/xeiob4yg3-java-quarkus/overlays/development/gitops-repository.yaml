@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xeiob4yg3-java-quarkus-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xeiob4yg3-java-quarkus-gitops
